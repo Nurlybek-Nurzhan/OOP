@@ -1,5 +1,5 @@
 package Assignment_3;
 
-public class Task_32 {
+public class Task_34 {
   
 }
